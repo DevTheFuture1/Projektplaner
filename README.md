@@ -3,7 +3,10 @@
 !Attention!This app is only available in German!
 
 Der offizielle Projektplaner der Firma Bat Innovations.
+
+Kommen sie auf den Discort Server von Bat Innovations LINK: https://discord.gg/wYH2VNkEx
 Folgen sie Bat Innovations auf Youtube und realLuro um nichts in diesem Thema zu verpassen und eine Gemeinsamme Community aufzubauen.
+
 !Diese App ist Ausschließlich auf Deutsch!
 
 Zum Installieren müssen sie einfach nur alle Dateien Herunterladen und in einen Ordner Packen.
